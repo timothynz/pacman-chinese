@@ -1,0 +1,35 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    text-align: center;
+}
+
+#game-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+#score-board {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+#game-area {
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+    border: 3px solid #333;
+    background-color: #000;
+    position: relative;
+}
+
+#word-pair {
+    font-size: 1.4em;
+    margin-top: 15px;
+}
